@@ -14,6 +14,7 @@ p {
     padding: 0;
     margin: 0;
     font-weight: bold;
+    text-align: center;
 }
 
 .film {
@@ -28,7 +29,7 @@ p {
     height: 15em;
 }
 
-.heart {
+#heart1 {
     height: 4em;
     margin-left: auto;
     margin-right: auto;
@@ -36,6 +37,44 @@ p {
     margin-bottom: 0;
     padding-bottom: 0
 }
+
+#heart2 {
+    height: 4em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+#heart3 {
+    height: 4em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+#heart4 {
+    height: 4em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+#heart5 {
+    height: 4em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+
 
 
 .container {
