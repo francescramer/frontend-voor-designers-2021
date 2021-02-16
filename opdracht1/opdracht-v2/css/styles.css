@@ -6,27 +6,34 @@ body {
 h1 {
     text-align: center;
     color: white;
+    padding-top: .5em;
 }
 
 p {
-    font-size: .7em;
-    color: black;
+    font-size: 1em;
+    color: white;
     padding: 0;
+    padding-top: .2em;
     margin: 0;
     font-weight: bold;
     text-align: center;
 }
 
 .film {
-    background-color: dimgrey;
+    background-color: black;
+    border: 2px solid white;
     padding: 2em 2em 1em 2em;
     width: 10.1em;
-            margin: 1em;
+    margin: 1em;
 
 }
 
 .foto {
     height: 15em;
+    width: 10em;
+    border: 2px solid white;
+    align-items: center;
+
 }
 
 #heart1 {
@@ -74,12 +81,30 @@ p {
     padding-bottom: 0
 }
 
-
-
-
 .container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
+}
+
+.uitleg {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.vraagteken {
+    margin: 2em 1em; 
+}
+
+.tekst {
+    text-align: left;
+    font-weight: normal;
+}
+
+#vraag {
+    width: 2em;
+    height: 2em;
+    margin-left: 2em;
 }
