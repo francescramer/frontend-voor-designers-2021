@@ -8,7 +8,9 @@ Lees hier de [opdrachtbeschrijving](./opdrachtbeschrijving.md).
 # Films bewaren
 Ik heb gekozen voor de use case "In een verzameling films wil ik een aantal leuke films kunnen bewaren om ze later te bekijken". 
 
-Bekijk hier mijn [opdracht 1](https://francescramer.github.io/frontend-voor-designers-2021/opdracht1/opdracht-v2)
+Bekijk hier mijn [opdracht 1 versie 1](https://francescramer.github.io/frontend-voor-designers-2021/opdracht1/opdracht-v1)
+
+Bekijk hier mijn [opdracht 1 versie 2](https://francescramer.github.io/frontend-voor-designers-2021/opdracht1/opdracht-v2)
 
 
 ## Interface
