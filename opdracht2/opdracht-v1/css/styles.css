@@ -1,0 +1,61 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: white;
+    display: block;
+    box-shadow: 0px 7px 10px #999999;
+    padding: 10em 10em .5em;
+    margin: -10em -2em 0em;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#vakantie {
+    height: 25em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    box-shadow: 0px 7px 10px #888888;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+button {
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 1.5em;
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    margin-top: 1.5em;
+}
+
+.location {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#dots {
+    height: 2em;
+}
