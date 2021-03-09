@@ -8,13 +8,11 @@ Lees hier de [opdrachtbeschrijving](./opdrachtbeschrijving.md).
 # Carousel
 Ik heb gekozen voor de use case "Carousel met vakantiefoto's". 
 
-Bekijk hier mijn [opdracht 1 versie 1]
-(https://francescramer.github.io/frontend-voor-designers-2021/opdracht2/opdracht-v1/)
+Bekijk hier mijn [opdracht 1 versie 1](https://francescramer.github.io/frontend-voor-designers-2021/opdracht2/opdracht-v1/)
 
 Mijn versie 2 is een soort pruts versie van mijn versie 3, waar ik niet trots op ben.
 
-Bekijk hier mijn [opdracht 1 versie 3]
-(https://francescramer.github.io/frontend-voor-designers-2021/opdracht2/opdracht-v3/)
+Bekijk hier mijn [opdracht 1 versie 3](https://francescramer.github.io/frontend-voor-designers-2021/opdracht2/opdracht-v3/)
 
 
 ## Interface
@@ -35,3 +33,8 @@ Ik heb geprobeerd meerdere UI events toe te passen maar dit is me uiteindelijk n
 
 ## Code
 Ik heb een groot deel van mijn code van mijn versie 3 van het internet omdat ik er zelf echt niet uitkwam. Ik heb geprobeerd door die code door te lezen deze te begrijpen. Dit was alsnog heel lastig waardoor ik ook mijn UI events niet goed kon toepassen.
+
+
+## Recources
+[Versie 2](https://codepen.io/chriscoyier/pen/XwbNwX)
+[Versie 3](https://www.w3schools.com/howto/howto_js_slideshow.asp)
