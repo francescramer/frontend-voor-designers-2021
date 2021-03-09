@@ -37,4 +37,5 @@ Ik heb een groot deel van mijn code van mijn versie 3 van het internet omdat ik 
 
 ## Recources
 [Versie 2](https://codepen.io/chriscoyier/pen/XwbNwX)
+
 [Versie 3](https://www.w3schools.com/howto/howto_js_slideshow.asp)
