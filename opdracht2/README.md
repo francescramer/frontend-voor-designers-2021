@@ -5,16 +5,33 @@ Werk een functionaliteit uit die je kunt bedienen met 'click' en nog een user in
 Lees hier de [opdrachtbeschrijving](./opdrachtbeschrijving.md).
 
 
-# Project titel
-Beschrijf hier je eigen project.
-En voeg een link naar je demo toe.
+# Carousel
+Ik heb gekozen voor de use case "Carousel met vakantiefoto's". 
 
-## interface
+Bekijk hier mijn [opdracht 1 versie 1]
+(https://francescramer.github.io/frontend-voor-designers-2021/opdracht2/opdracht-v1/)
+
+Mijn versie 2 is een soort pruts versie van mijn versie 3, waar ik niet trots op ben.
+
+Bekijk hier mijn [opdracht 1 versie 3]
+(https://francescramer.github.io/frontend-voor-designers-2021/opdracht2/opdracht-v3/)
+
+
+## Interface
 Leg de interface uit.
 
-In de demo heb je interface design principles 04, 08 & 09 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) toegepast. Hoe heb je dat gedaan?
+### Principle 4: Keep users in control
+Dit houdt in dat je de gebruiker in controle probeert te houden door elementen te gebruiken die dee gebruiker al kent. Dit heb ik toegepast door maar een beperkt aantal acties mogelijk te maken. 
 
-In de demo heb je meerdere [UI events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) toegepast. Hoe heb je dat gedaan?
+### Principle 8: Provide a natural next step
+Dit houdt in dat je de gebruiker een logische volgende stap geeft. Dit is bij mij bijvoorbeeld de stap naar eeen volgende foto. Dit is logisch voor de gebruiker.
 
-## code
-Leg de code uit.
+### Principle 9: Appearance follows behavior
+Dit houdt in dat de manier dat een element eruit ziet moet passen bij de houding van het element. Dit heb ik gedaan door de buttons om naar de volgende of vorige foto te gaan pijltjes te geven die naar rechts en links wijzen.
+
+### Demo
+Ik heb geprobeerd meerdere UI events toe te passen maar dit is me uiteindelijk niet gelukt. Dit is grootendeels mijn eigen fout, aangezien ik eerst met arrays had gewerkt moest ik dat aanpassen en met CSS werken. Hier kwam ik echt bijna niet uit en met wat hulp van het internet heb ik er toch nog wat van kunnen maken. Maar hierdoor kwam ik echt niet meer uit de keypress events.
+
+
+## Code
+Ik heb een groot deel van mijn code van mijn versie 3 van het internet omdat ik er zelf echt niet uitkwam. Ik heb geprobeerd door die code door te lezen deze te begrijpen. Dit was alsnog heel lastig waardoor ik ook mijn UI events niet goed kon toepassen.

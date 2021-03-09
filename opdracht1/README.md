@@ -25,15 +25,3 @@ Een sterke visuele hiërarchie wordt bereikt wanneer er een duidelijke kijkvolgo
 
 ## Code
 Ik heb geprobeerd om de hartjes te laten werken met querySelectorAll en arrays, na twee uur onderzoek en proberen lukte mij dit niet en heb ik alle hartjes een aparte ID gegeven en daardoor ook aparte functies. Ook wilde ik een tweede interactie maken, wat me nog niet helemaal is gelukt door een tekort aan tijd. Ik wilde het vraagteken onderaan de pagina daar alleen zetten en als je daarop klikte was het de bedoeling dat je de info zou zien. Ik kreeg het niet voor elkaar om de hartjes ook weer te laten verdwijnen door middel van 1 klik, dus heb ik er dubbel klik van gemaakt. Ik heb wel een idee hoe ik dat zou kunnen doen, if-then-else, maar ook dit lukte mij niet.
-
-
-
-
-
-
-
-
-
-
-
-

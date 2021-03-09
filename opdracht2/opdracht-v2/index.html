@@ -5,8 +5,6 @@
     <meta charset="UTF-8">
     <title>Vakantiefoto's</title>
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -15,20 +13,40 @@
     </header>
 
     <main>
-        <section class="container">
-            <button id="terug">←</button>
-            <section>
-                <img id="vakantie" src="img/limburg01.jpg" alt="Luchtballon">
-            </section>
-            <button id="verder">→</button>
-        </section>
-
-        <section>
-            <h2>Titel</h2>
-            <section class="location">
-                <img alt="welke foto ben ik" id="dots" src="img/selected01.png">
-            </section>
-        </section>
+        <div class="slider">
+            <a href="#slide-1">1</a>
+            <a href="#slide-2">2</a>
+            <a href="#slide-3">3</a>
+            <a href="#slide-4">4</a>
+            <a href="#slide-5">5</a>
+            <a href="#slide-6">6</a>
+            
+            <div class="slides">
+                <div id="slide-1">
+                    <img src="img/limburg01.jpg">
+                </div>
+                
+                <div id="slide-2">
+                    <img src="img/limburg02.jpg">
+                </div>
+                
+                <div id="slide-3">
+                    <img src="img/limburg03.jpg">
+                </div>
+                
+                <div id="slide-4">
+                    <img src="img/limburg04.jpg">
+                </div>
+                
+                <div id="slide-5">
+                    <img src="img/limburg05.jpg">
+                </div>
+                
+                <div id="slide-6">
+                    <img src="img/limburg06.jpg">
+                </div>
+            </div>
+        </div>
     </main>
 
     <script src='js/script.js'></script>
