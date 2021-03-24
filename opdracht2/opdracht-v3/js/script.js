@@ -37,20 +37,17 @@ function showSlides(n) {
 //function keypressNext {
 //    
 //}
-//
-//
-//eventTarget.addEventListener("keydown", event => {
-//  if (event.isComposing || event.keyCode === 37) {
-//    return;
-//  }
-//});
-//
-//eventTarget.addEventListener("keydown", event => {
-//  if (event.isComposing || event.keyCode === 39) {
-//    return;
-//  }
-//});
-//
+
+
+window.addEventListener("keydown", event => {
+  if (event.keyCode === 37) {
+    console.log ("hoi");
+  }
+  if (event.keyCode === 39) {
+    return;
+  }
+});
+
 
 
 
