@@ -987,10 +987,26 @@ var movies = [
           }
         ]
     }
-]
+];
 
-movies.homeTown;
-movies['active'];
+function movieTemplate(movieFunction){
+    return `
+<div class="movie-div">
+    <img class="movie-cover" src="${movieFunction.cover}">
+    <h2 class="movie-title">${movieFunction.title}</h2>
+<p class="movie-release">${movieFunction.release_date}</p>
+    
+</div>
+`
+}
 
-//movies['title'][0];
+document.getElementById("page").innerHTML = `
+    <h1 id="page-title">Movies (${movies.length} results)</h1>
+    ${movies.map(movieTemplate).join('')}
 
+
+
+
+
+
+`
