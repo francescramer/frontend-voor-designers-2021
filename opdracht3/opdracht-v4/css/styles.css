@@ -1,31 +1,24 @@
-/* || general styles */
-
 html {
-  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+    font-family: sans-serif;
 }
-
-h1, h2 {
-  font-family: sans-serif;
-}
-
-/* header styles */
 
 h1 {
-  font-size: 3em;
-  text-align: center;
+    font-size: 3em;
+    text-align: center;
 }
 
 header p {
-  font-size: 1.3rem;
-  font-weight: bold;
-  text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
 }
 
-/* section styles */
-
 h2 {
-  font-size: 2em;
-  margin-bottom: 10px;
+    font-size: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 img {
@@ -47,3 +40,25 @@ section {
 button {
     margin: 2em;
 }
+
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+#cover {
+    padding: 0 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
