@@ -1,0 +1,49 @@
+/* || general styles */
+
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+h1, h2 {
+  font-family: sans-serif;
+}
+
+/* header styles */
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+header p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* section styles */
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+img {
+    height: 15em;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+section {
+    margin: 2em;
+    width: 50%;
+}
+
+button {
+    margin: 2em;
+}
