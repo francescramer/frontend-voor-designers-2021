@@ -1,5 +1,5 @@
 html {
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
@@ -12,12 +12,6 @@ h1 {
     padding-top: .7em;
 }
 
-header p {
-    font-size: 1.3rem;
-    font-weight: bold;
-    text-align: center;
-}
-
 h2 {
     font-size: 2em;
     margin-bottom: 1em;
@@ -27,7 +21,7 @@ h2 {
 }
 
 img {
-    height: 20em;
+    height: 21em;
 }
 
 main {
@@ -61,9 +55,6 @@ button {
 
 }
 
-
-
-
 #container1,
 #container2,
 #container3,
@@ -86,7 +77,18 @@ button {
 }
 
 
-/* Hide the images by default */
+
+
+
+
+ {
+    font-weight: bold;
+}
+
+
+
+
+
 .mySlides {
     display: none;
 }
@@ -95,7 +97,6 @@ h1 {
     text-align: center;
 }
 
-/* Next & previous buttons */
 .prev,
 .next {
     cursor: pointer;
@@ -121,10 +122,8 @@ h1 {
 .prev:hover,
 .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
+    color: white;
 }
-
-
-
 
 .fade {
     -webkit-animation-name: fade;
@@ -132,6 +131,12 @@ h1 {
     animation-name: fade;
     animation-duration: 1.5s;
 }
+
+.active,
+.dot:hover {
+    background-color: #717171;
+}
+
 
 @-webkit-keyframes fade {
     from {

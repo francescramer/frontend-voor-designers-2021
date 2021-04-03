@@ -44,7 +44,7 @@ window.addEventListener("keydown", event => {
     console.log ("hoi");
   }
   if (event.keyCode === 39) {
-    return;
+    console.log ("hoi");
   }
 });
 
