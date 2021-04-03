@@ -9,7 +9,7 @@ Lees hier de [opdrachtbeschrijving](./opdrachtbeschrijving.md).
 Beschrijf hier je eigen project.
 En voeg een link naar je demo toe.
 
-## interface
+## Interface
 Leg de interface uit.
 
 In de demo heb je interface design principles 04, 08, 09 & 11 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) toegepast. Hoe heb je dat gedaan?
@@ -19,12 +19,10 @@ In de demo heb je meerdere [UI events](https://developer.mozilla.org/en-US/docs/
 IN de demo heb je een aantal states van de [UI stack](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/) toegepast. Hoe heb je dat gedaan?
 
 
-## code
+## Code
 Leg de code uit.
 
 
-# Bron
-https://www.youtube.com/watch?v=DG4obitDvUA 
 
 
 

@@ -16,8 +16,6 @@ Bekijk hier mijn [opdracht 1 versie 3](https://francescramer.github.io/frontend-
 
 
 ## Interface
-Leg de interface uit.
-
 ### Principle 4: Keep users in control
 Dit houdt in dat je de gebruiker in controle probeert te houden door elementen te gebruiken die dee gebruiker al kent. Dit heb ik toegepast door maar een beperkt aantal acties mogelijk te maken. 
 
