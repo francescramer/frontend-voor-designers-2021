@@ -82,12 +82,11 @@ Voor het laden van de JSON data heb ik gebruik gemaakt van XMLHttpRequest, hierm
 
 
 ### Carousel
-
+Voor de carousel heb ik gebruik gemaakt van een [tutorial](https://www.w3schools.com/howto/howto_js_slideshow.asp) aangezien ik dit heel lastig vond. Eerst maakte ik een variabele slideIndex en die stelde ik gelijk aan 1. Hierna maakte ik een functie plusSlides, een functie currentSlide en een functie showSlides.
 
 
 ### Keydown Events
-
-
+Voor de keydown events moest ik window.addEventListener en dan tussen haakjes "keydown", event => neerzetten. Hierbinnen heb ik twee if statements gemaakt waarin ik de keycodes heb gezet. Hieronder heb ik voor controle een console.log gezet. Ten slotte heb ik hieronder de functie plusSlides aangeroepen en tussen de haakjes aangegeven of de slides 1 naar voor of 1 naar achter moeten. 
 
 
 ## Bronnen

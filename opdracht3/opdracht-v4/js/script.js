@@ -201,11 +201,11 @@ function showSlides(n) {
 
 window.addEventListener("keydown", event => {
     if (event.keyCode === 37) {
-        console.log("hoi");
+        console.log("links");
         plusSlides(-1);
     }
     if (event.keyCode === 39) {
-        console.log("doei");
+        console.log("rechts");
         plusSlides(1);
     }
 });
