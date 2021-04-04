@@ -111,14 +111,3 @@ Ik heb veel gebruik gemaakt van het internet voor dit project. Onder andere omda
 [MDN tutorial JSON laden](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 [Movies API](https://koopreynders.github.io/frontendvoordesigners/opdracht3/json/movies.json)
-
-
-
-
-
-
-
-
-
-
-
