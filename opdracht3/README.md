@@ -1,12 +1,14 @@
 # Frontend voor Designers - opdracht 3: Een interactie uitwerken met externe data
-Voor deze opdracht moest ik een functionaliteit ontwerpen met externe data. Ik koos voor de aangeboden [Movies API](https://koopreynders.github.io/frontendvoordesigners/opdracht3/json/movies.json)
+Voor deze opdracht moest ik een functionaliteit ontwerpen met externe data. 
 
 
 ## Een interactie uitwerken met externe data
-================= Beschrijf hier je eigen project.
+Ik koos bij dit project voor de aangeboden [Movies API](https://koopreynders.github.io/frontendvoordesigners/opdracht3/json/movies.json). Dit deed ik omdat ik merkte dat ik het best lastig vond om JSON goed te begrijpen en op deze manier kon ik gemakkelijker aan de docent hulp vragen, aangezien hij deze code zelf heeft geschreven.
+
 
 ### Versies
 Ik heb tussendoor verschillende versies gemaakt en opgeslagen, maar deze waren allemaal niet af. Ik heb verschillende methodes geprobeerd om de JSON data te laden en deze staan allemaal nog als losse versies opgeslagen. Ook heb ik tussendoor een soort backup gemaakt, voor het geval dat ik de code zou verpesten dan had ik een backup om naar terug te gaan. 
+
 #### Versie 0: Breakdown schets
 ![Breakdown schets van mijn idee](/img/breakdown-schets.png)
 In mijn breakdown schets heb ik een general idee neer gezet. Ik wist nog niet precies hoe ik het ging doen, want dit vond ik heel lastig om zomaar even snel neer te zetten.
@@ -20,22 +22,18 @@ Tijdens de les kwam ik er achter dat ik eigenlijk niet zo goed snapte dat ik in 
 #### Versie 3: Movies JSON laden met behulp van de aangeboden tutorial
 Hierna starte ik met mijn [gekozen API](https://koopreynders.github.io/frontendvoordesigners/opdracht3/json/movies.json) te verwerken in deze code. Ik dacht dat dit best goed ging, maar ik kreeg constant "Hometown: undefined // Formed: undefined" in mijn scherm. Gelukkig was later deze middag het vragenuur en kon ik vragen wat er mis ging.
 
+#### Versie 4 - backup: Een backup voor het geval dat ik mijn code zou verpesten.
+Tijdens het vragenuur deed de docent een stukje code voor en heb ik hierbij meegeschreven, zodat ik hierop verder kon. Hierdoor werd het allemaal een stuk duidelijker voor mij. Wanneer ik dit onder de knie had heb ik een backup gemaakt zodat ik hierop kon terugvallen als dat nodig was.
+
 #### Versie 4: Movies JSON laden met behulp van het vragenuur
-Tijdens het vragenuur deed de docent een stukje code voor en heb ik hierbij meegeschreven, zodat ik hierop verder kon. Hierdoor werd het allemaal een stuk duidelijker voor mij. 
+Ik ben gewoon verder gegaan in mijn versie 4. Na het laden van de JSON heb ik wat elementen van [opdracht 2](https://francescramer.github.io/frontend-voor-designers-2021/opdracht2/opdracht-v3/) overgenomen en gebruikt. Wanneer dit allemaal gelukt was heb ik geprobeerd om een keydown event toe te voegen, dit kostte heel wat werk en frustratie maar is uiteindelijk wel gelukt. 
 
-#### Versie 4 - safe: Een backup voor het geval dat ik mijn code zou verpesten.
-
-
-
-
-
-
-
-================= Bekijk hier mijn [eindresultaat]()
+Bekijk hier mijn [eindresultaat](https://francescramer.github.io/frontend-voor-designers-2021/opdracht3/opdracht-v4/).
 
 
 ## Interface
-================= Leg de interface uit.
+Ik heb gekozen om niet te veel informatie op de pagina te laten zien. Dit onder andere omdat ik het best ingewikkeld vond en al best veel tijd nodig had om dit voor elkaar te krijgen. Als ik nu nog een week de tijd had gehad dan had ik wel meer informatie op de pagina's willen laten zien. Ik vond het wel heel interessant en ik ga zeker nog eens experimenteren met JSON data.
+
 
 ### Principles of User Interface Design
 [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
@@ -56,13 +54,24 @@ Een sterke visuele hiërarchie wordt bereikt wanneer er een duidelijke kijkvolgo
 ### UI events
 ================= In de demo heb je meerdere [UI events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) toegepast. Hoe heb je dat gedaan?
 
+#### UI event
+
+
+
+
 
 
 ### States uit de UI stack
 ================= In de demo heb je een aantal states van de [UI stack](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/) toegepast. Hoe heb je dat gedaan?
 
+#### Ideal State
+Dit is de eerste state die je maakt. Het is de state die men het meeste ziet. Voor mijn project is dit de pagina waarop één van de films staat weergegeven. 
 
+#### Empty State
+Deze state is de state die de gebruiker als eerste ziet wanneer hij het product voor het eerste gebruikt. Deze staat zorgt voor de eerste indruk van de gebruiker. Bij mijn project is dit de pagina waarop de eerste film staat weergegeven. 
 
+#### Loading State
+Deze state laat zien wat er gebeurd als de data wordt geladen. Bij mijn project is dat aan het begin, dan is het scherm nog leeg. Maar ook wanneer er op de pijltjes wordt geklikt. De data wordt geladen en er komt een fade effect. De oude data fade weg en de nieuwe komt ervoor in de plaats.
 
 
 ## Code
