@@ -17,10 +17,10 @@ Bekijk hier mijn [opdracht 1 versie 3](https://francescramer.github.io/frontend-
 
 ## Interface
 ### Principle 4: Keep users in control
-Dit houdt in dat je de gebruiker in controle probeert te houden door elementen te gebruiken die dee gebruiker al kent. Dit heb ik toegepast door maar een beperkt aantal acties mogelijk te maken. 
+Dit houdt in dat je de gebruiker in controle probeert te houden door elementen te gebruiken die de gebruiker al kent. Dit heb ik toegepast door maar een beperkt aantal acties mogelijk te maken. 
 
 ### Principle 8: Provide a natural next step
-Dit houdt in dat je de gebruiker een logische volgende stap geeft. Dit is bij mij bijvoorbeeld de stap naar eeen volgende foto. Dit is logisch voor de gebruiker.
+Dit houdt in dat je de gebruiker een logische volgende stap geeft. Dit is bij mij bijvoorbeeld de stap naar een volgende foto. Dit is logisch voor de gebruiker.
 
 ### Principle 9: Appearance follows behavior
 Dit houdt in dat de manier dat een element eruit ziet moet passen bij de houding van het element. Dit heb ik gedaan door de buttons om naar de volgende of vorige foto te gaan pijltjes te geven die naar rechts en links wijzen.
