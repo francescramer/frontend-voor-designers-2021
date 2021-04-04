@@ -10,7 +10,7 @@ Ik koos bij dit project voor de aangeboden [Movies API](https://koopreynders.git
 Ik heb tussendoor verschillende versies gemaakt en opgeslagen, maar deze waren allemaal niet af. Ik heb verschillende methodes geprobeerd om de JSON data te laden en deze staan allemaal nog als losse versies opgeslagen. Ook heb ik tussendoor een soort backup gemaakt, voor het geval dat ik de code zou verpesten dan had ik een backup om naar terug te gaan. 
 
 #### Versie 0: Breakdown schets
-![Breakdown schets van mijn idee](/img/breakdown-schets.png)
+![Breakdown schets van mijn idee](/img/breakdownschets.png)
 In mijn breakdown schets heb ik een general idee neer gezet. Ik wist nog niet precies hoe ik het ging doen, want dit vond ik heel lastig om zomaar even snel neer te zetten.
 
 #### Versie 1: Movies JSON laden met behulp van een Youtube video
