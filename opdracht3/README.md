@@ -52,17 +52,17 @@ Een sterke visuele hiërarchie wordt bereikt wanneer er een duidelijke kijkvolgo
 
 
 ### UI events
-================= In de demo heb je meerdere [UI events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) toegepast. Hoe heb je dat gedaan?
+[UI events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) 
 
-#### UI event
+#### Click Event
+Ik heb twee buttons en wanneer je op deze buttons klikt gaat hij naar de volgende of de vorige film. 
 
-
-
-
+#### Keydown Event
+Ik heb ook een keydownEvent gebruikt om naar de volgende of vorige film te gaan. 
 
 
 ### States uit de UI stack
-================= In de demo heb je een aantal states van de [UI stack](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/) toegepast. Hoe heb je dat gedaan?
+[UI stack](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
 
 #### Ideal State
 Dit is de eerste state die je maakt. Het is de state die men het meeste ziet. Voor mijn project is dit de pagina waarop één van de films staat weergegeven. 
@@ -75,14 +75,51 @@ Deze state laat zien wat er gebeurd als de data wordt geladen. Bij mijn project 
 
 
 ## Code
-Leg de code uit.
 
 
+### JSON
+Voor het laden van de JSON data heb ik gebruik gemaakt van XMLHttpRequest, hiermee maak ik de JSON data accessible. Hierna maak ik een functie aan om de data daadwerkelijk te laden. Hierin maak ik variabelen aan en hiermee creëer ik een element. Bijvoorbeeld h2, img of p. Dan roep ik de JSON data aan die in dit element moet staan. Ten slotte plaats het element in de juiste section of div die hiervoor is bedoeld. Dit doe ik voor alle data die ik op de pagina wil zien. 
+
+
+### Carousel
+
+
+
+### Keydown Events
 
 
 
 
 ## Bronnen
+Ik heb veel gebruik gemaakt van het internet voor dit project. Onder andere omdat ik JavaScript best wel lastig vind. 
+
+
+### Zelf opgezochten bronnen
+[Tutorial carousel](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+
+[Youtube tutorial JSON laden](https://www.youtube.com/watch?v=DG4obitDvUA)
+
+[Keydown event](https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event)
+
+
+### Aangeboden bronnen
+[Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
+
+[UI events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) 
+
+[UI stack](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
+
+[MDN tutorial JSON laden](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+[Movies API](https://koopreynders.github.io/frontendvoordesigners/opdracht3/json/movies.json)
+
+
+
+
+
+
+
+
 
 
 
