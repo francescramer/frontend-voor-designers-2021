@@ -8,8 +8,8 @@ Voor deze opdracht moest ik een functionaliteit ontwerpen met externe data. Ik k
 ### Versies
 Ik heb tussendoor verschillende versies gemaakt en opgeslagen, maar deze waren allemaal niet af. Ik heb verschillende methodes geprobeerd om de JSON data te laden en deze staan allemaal nog als losse versies opgeslagen. Ook heb ik tussendoor een soort backup gemaakt, voor het geval dat ik de code zou verpesten dan had ik een backup om naar terug te gaan. 
 #### Versie 0: Breakdown schets
-
-![Breakdown schets van mijn idee](/img/breakdown-schets.png)
+![Breakdown schets van mijn idee]()
+In mijn breakdown schets heb ik een general idee neer gezet. Ik wist nog niet precies hoe ik het ging doen, want dit vond ik heel lastig om zomaar even snel neer te zetten.
 
 #### Versie 1: Movies JSON laden met behulp van een Youtube video
 Ik begon met een poging om de tutorial te doen, alleen had ik verkeerd begrepen dat ik eerst gewoon die data moest gebruiken in plaats van proberen mijn eigen data in te vullen. Hierdoor snapte ik er heel weinig van en ben ik zelf een [tutorial](https://www.youtube.com/watch?v=DG4obitDvUA) gaan zoeken. Deze heb ik nagedaan en dit ging best goed. 
